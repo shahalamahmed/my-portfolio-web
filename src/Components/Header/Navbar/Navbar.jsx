@@ -59,7 +59,7 @@ const Navbar = () => {
     </ul>
   </div>
   <div className="navbar-end">
-  <a href='https://github.com/Rejuan7' target="_blank" rel="noopener noreferrer" className="border py-2 px-4 rounded-3xl text-base font-semibold btn-outline hover:bg-[#854CE6] text-[#854CE6] border-[#854CE6]">
+  <a href='https://github.com/shahalamahmed' target="_blank" rel="noopener noreferrer" className="border py-2 px-4 rounded-3xl text-base font-semibold btn-outline hover:bg-[#854CE6] text-[#854CE6] border-[#854CE6]">
   GitHub Profile
 </a>
   </div>
