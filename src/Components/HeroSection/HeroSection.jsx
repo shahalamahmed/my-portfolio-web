@@ -1,5 +1,6 @@
 import Typewriter from 'typewriter-effect';
-import pp from '../../assets/pp.png'
+import pp from '../../assets/pp.png';
+import resume from '../../assets/Resume.pdf';
 import AmmeIndex from './AnimationHero/AmmeIndex';
 
 
@@ -25,7 +26,7 @@ const HeroSection = () => {
                     </div>
                     <p className="md:text-[20px] text-[17px]  mt-3 leading-8 text-[#F2F3F494]">I am a motivated and versatile individual, always <br className='md:display hidden' /> eager to take on new challenges. With a passion for <br className='md:display hidden' /> learning I am dedicated to delivering high-quality <br className='md:display hidden' /> results. With a positive attitude and a growth mindset, I <br className='md:display hidden' /> am ready to make a meaningful contribution and achieve great things</p>
 
-                    {/* <a href={resume}download='Resume.pdf' className="btn btn-outline md:w-52 rounded-xl md:mt-10 mt-5 md:text-lg  hover:bg-[#854CE6]  text-[#854CE6]  border-[#854CE6]">Download Resume</a> */}
+                    <a href={resume}download='Resume.pdf' className="btn btn-outline md:w-52 rounded-xl md:mt-10 mt-5 md:text-lg  hover:bg-[#854CE6]  text-[#854CE6]  border-[#854CE6]">Download Resume</a> 
                 </div>
             </div>
             {/* 2nd div */}
